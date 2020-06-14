@@ -20,7 +20,7 @@ I’ve been using google docs for writing for two years but I’ve recently deci
 
 5. Writing on Software
 
-   I’m not writing novels. A aspire to be producing writing that is tightly integrated and dealing with software development so the medium of GitHub strongly lends its self to this idea. 
+   I’m not writing novels. A aspire to be producing writing that is tightly integrated and dealing with software development so the medium of GitHub strongly lends its self to this idea.
 
 6. Writing Produced by Software
 
@@ -40,3 +40,6 @@ I’ve been using google docs for writing for two years but I’ve recently deci
 
    - A status report on how things are going
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTYzMzIzOTg4M119
+-->
