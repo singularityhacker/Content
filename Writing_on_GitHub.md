@@ -33,13 +33,14 @@ I’ve been using google docs for writing for two years but I’ve recently deci
 
    In a future post, I’ll describe:
 
-   - The details of my new GitHub writing setup
+   - The details of my new writing setup
 
    - Steps to migrate existing Google docs projects to GitHub
 
    - A status report on how things are going
 
+[]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1OTU2NDA3LC0xNDY3MTEwMzEsMTI3ND
-M3MTg0NV19
+eyJoaXN0b3J5IjpbMTY0NTA2MzA0NCwtMTQ2NzExMDMxLDEyNz
+QzNzE4NDVdfQ==
 -->
