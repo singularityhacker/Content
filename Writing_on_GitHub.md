@@ -31,7 +31,6 @@ I’ve been using google docs for writing for two years but I’ve recently deci
    I intend on posting much of what I’m writing to Medium. One reason for this is that Medium lets you post a canonical link pointing to where the original article appeared. I like the idea that I can point to a commit and that a person can see the history of that work and it also allows me to post that body of content at a later time after it has morphed and transformed into something else and use the later commit for the canonical tag. 
 
 
-
    In a future post, I’ll describe:
 
    - The details of my new GitHub writing setup
@@ -41,5 +40,6 @@ I’ve been using google docs for writing for two years but I’ve recently deci
    - A status report on how things are going
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjcxMTAzMSwxMjc0MzcxODQ1XX0=
+eyJoaXN0b3J5IjpbMjA1OTU2NDA3LC0xNDY3MTEwMzEsMTI3ND
+M3MTg0NV19
 -->
