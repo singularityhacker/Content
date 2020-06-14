@@ -1,4 +1,4 @@
-# GitHub for Writing
+# Writing on GitHub
 
 I’ve been using google docs for writing for two years but I’ve recently decided to move to GitHub. Yes, you heard that right. Writing on GitHub. I’m attempting to make this change for the following reasons.
 
