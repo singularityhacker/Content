@@ -12,7 +12,7 @@ I’ve been using google docs for writing for two years but I’ve recently deci
 
 3. An API for Agreement
 
-   Git has the concept of requesting and accepting changes built into how it works in the form of pull requests. This acts as a kind of contract for what gets accepted from who. A shared google doc doesn’t capture that in the same way. 
+   Git has the concept of requesting and accepting changes built into how it works in the form of pull requests. This acts as a kind of contract for what gets accepted and from who. A shared google doc doesn’t capture that as powerfullly. 
 
 4. Markdown
 
@@ -41,5 +41,5 @@ I’ve been using google docs for writing for two years but I’ve recently deci
    - A status report on how things are going
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NzE1NTAxMSwxMjc0MzcxODQ1XX0=
+eyJoaXN0b3J5IjpbLTExNjIwMTgzMTQsMTI3NDM3MTg0NV19
 -->
