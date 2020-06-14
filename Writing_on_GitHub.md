@@ -24,7 +24,7 @@ I’ve been using google docs for writing for two years but I’ve recently deci
 
 6. Writing Produced by Software
 
-   I’m fascinated by how content generation is becoming so within the capabilities of software. With the announcement of language models like GPT-3, I think we should be exploring how we can leverage these technical capabilities to augment our content creation. 
+   I'm fascinated by how content generation is falling within the domain of computer science. With the announcement of language models like GPT-3, I think we should be exploring how we can leverage these technical capabilities to augment our content creation. 
 
 7. Versioned Canonical Links
 
