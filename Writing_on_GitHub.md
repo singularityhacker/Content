@@ -4,11 +4,11 @@ I’ve been using google docs for writing for two years but I’ve recently deci
 
 1. Consistent Public Output
 
-   As a knowledge worker, I should be producing a steady stream of content. I was trying to hold myself accounting to writing every day by sticking to a daily routine that included study and writing but it was hard to really visualize and see exactly what that looked like. Maybe I missed one day but wrote a lot another day. The don’t-break-the-chain habit pattern is powerful and now I’m getting it for free via the GitHub contribution widget. No app required.
+   As a knowledge worker, I should be producing a steady stream of content. I was trying to hold myself accounting to writing every day by sticking to a daily routine that included study and writing but it was hard to really visualize and see exactly what that looked like. Maybe I missed one day but wrote a lot another day. The [don’t-break-the-chain](https://luxafor.com/dont-break-the-chain-explained/) habit pattern is powerful and now I’m getting it for free via the GitHub contribution widget. No app required.
 
 2. Collaboration
 
-   Google docs are very easy to share and convenient to collaborate with others in. Up to a point. It’s super easy to chare a screen and get some content out in the form of a first draft but as a body of content begins to mature, it’s extremely important to know exactly what is being changed. I’m not aware of anything that provides that level of refinement besides source control. 
+   Google docs are very easy to share and convenient to collaborate with others in. Up to a point. It’s super easy to share a screen and get some content out in the form of a first draft but as a body of content begins to mature, it’s extremely important to know exactly what is being changed. I’m not aware of anything that provides that level of refinement besides source control. 
 
 3. An API for Agreement
 
@@ -41,5 +41,5 @@ I’ve been using google docs for writing for two years but I’ve recently deci
    - A status report on how things are going
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NDM3MTg0NV19
+eyJoaXN0b3J5IjpbMTI0NzE1NTAxMSwxMjc0MzcxODQ1XX0=
 -->
