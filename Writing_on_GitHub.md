@@ -4,7 +4,7 @@ I’ve been using google docs for writing for two years but I’ve recently deci
 
 1. Consistent Public Output
 
-   As a knowledge worker, I should be producing a steady stream of content. I was trying to hold myself accounting to writing every day by sticking to a daily routine that included study and writing but it was hard to really visualize and see exactly what that looked like. Maybe I missed one day but wrote a lot another day. The [don’t-break-the-chain](https://luxafor.com/dont-break-the-chain-explained/) habit pattern is powerful and now I’m getting it for free via the GitHub contribution widget. No app required.
+   As a knowledge worker, I should be producing a steady stream of content. I was trying to hold myself accounting to writing every day by sticking to a daily routine that included study and writing but it was hard to visualize and see exactly what that looked like. Maybe I missed one day but wrote a lot another day. The [don’t-break-the-chain](https://luxafor.com/dont-break-the-chain-explained/) habit pattern is powerful and now I’m getting it for free via the GitHub contribution widget. No app required.
 
 2. Collaboration
 
@@ -12,15 +12,15 @@ I’ve been using google docs for writing for two years but I’ve recently deci
 
 3. An API for Agreement
 
-   Git has the concept of requesting and accepting changes built into how it works in the form of pull requests. This acts as a kind of contract for what gets accepted and from who. A shared google doc doesn’t capture that as powerfullly. 
+   Git has the concept of requesting and accepting changes built into how it works in the form of pull requests. This acts as a kind of contract for what gets accepted and from who. A shared google doc doesn’t capture that as powerfully. 
 
 4. Markdown
 
-   Copying and pasting formatted text from one word-processing environment to another is clunky and almost an awful experience. Writing in Markdown does away with all this and provides a universal file format that can be used as plain text, formatted text, or HTML all in one. 
+   Copying and pasting formatted text from one word-processing environment to another is clunky and almost always an awful experience. Writing in Markdown does away with all this and provides a universal file format that can be used as plain text, formatted text, or HTML all in one. 
 
 5. Writing on Software
 
-   I’m not writing novels. A aspire to be producing writing that is tightly integrated and dealing with software development so the medium of GitHub strongly lends its self to this idea.
+   I’m not primarily writing novels. I aspire to be producing writing that is tightly integrated and dealing with software development so the medium of GitHub strongly lends its self to this idea.
 
 6. Writing Produced by Software
 
@@ -41,5 +41,5 @@ I’ve been using google docs for writing for two years but I’ve recently deci
    - A status report on how things are going
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjIwMTgzMTQsMTI3NDM3MTg0NV19
+eyJoaXN0b3J5IjpbLTE0NjcxMTAzMSwxMjc0MzcxODQ1XX0=
 -->
