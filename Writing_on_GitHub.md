@@ -38,9 +38,7 @@ I’ve been using google docs for writing for two years but I’ve recently deci
    - Steps to migrate existing Google docs projects to GitHub
 
    - A status report on how things are going
-
-[]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NTA2MzA0NCwtMTQ2NzExMDMxLDEyNz
+eyJoaXN0b3J5IjpbMTY5NzYwMTczOCwtMTQ2NzExMDMxLDEyNz
 QzNzE4NDVdfQ==
 -->
