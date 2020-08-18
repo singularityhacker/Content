@@ -6,7 +6,7 @@ In a [previous post](https://medium.com/@justiceconder/writing-on-github-c35ddd1
 
 **Organization and Collaborative Discussion**
 
-GitHub projects and issues to the rescue. 
+GitHub projects and issues to the rescue. See the issue that tracked my thoughts and notes for this very post here: https://github.com/singularityhacker/Content/issues/2
 
 **A Full Local Setup**
 
