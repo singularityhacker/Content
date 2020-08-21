@@ -4,6 +4,34 @@
 
 In a [previous post](https://medium.com/@justiceconder/writing-on-github-c35ddd12bfd8), I spoke about moving to GitHub as a technical writing platform. In this post, I will address some of the challenges I faced, methods of resolution, and future goals as I continue down this journey. If you want to know the exact reasons I have made this change, review the previous post.
 
+**Editors**
+
+When I first started down this path, I wasn't accustomed to writing in markdown so the first thing I did is clone some repositories to my local machine and look for a good markdown editor. This is where things got strange. It seems that writing in markdown has become something of a rising trend to the degree that there are several paid editors on the market with some even requiring a subscription. Thankfully I didn't capitulate to these scams and decided to just go all in and use VS Code as my editor. I had to brush up on the interface, staging and committing changes, and package installation. The exercise proved beneficial but one aspect of the workflow I still didn't like was the subpar Grammarly integration. 
+
+By accident, I discovered that editing files directly from within the browser on the GitHub website itself proved sufficient for most things I was doing. After adding a Chrome extension that made editing markdown files even more friendly and realizing that the Grammarly chrome extension worked as well when this extension was enabled, I started to really fall into a daily groove. What's cool is that all my content is still available locally if needed (meaning I can interact with it with any application on my machine) but still conveniently available to be edited within a browser window. It's really the best of both worlds. 
+
+**Organization**
+
+A word on organization. Github projects. 
+
+**Image Management**
+
+Imgur and the upload app
+
+**Presentation**
+
+Hack.md
+
+Awesome slides
+
+A good way to make private content public content.
+
+**The trivium of technical writing**
+
+...
+
+---
+
 **Organization and Collaborative Discussion**
 
 GitHub projects and issues to the rescue. See the issue that tracked my thoughts and notes for this very post here: https://github.com/singularityhacker/Content/issues/2
