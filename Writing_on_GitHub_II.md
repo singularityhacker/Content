@@ -2,31 +2,34 @@
 
 ![Writing in GutHub 2](https://i.imgur.com/7q9dp9A.png)
 
-In a [previous post](https://medium.com/@justiceconder/writing-on-github-c35ddd12bfd8), I spoke about moving to GitHub as a technical writing platform. In this post, I will address some of the challenges I faced, methods of resolution, and future goals as I continue down this journey. If you want to know the exact reasons I have made this change, review the previous post.
+In a [previous post](https://medium.com/@justiceconder/writing-on-github-c35ddd12bfd8), I spoke about moving to GitHub as a technical writing platform. In this post, I will address some of the challenges I faced, methods of resolution, and future goals as I continue down this journey. If you want to know the exact reasons I have made this change, review my [previous post](https://medium.com/@justiceconder/writing-on-github-c35ddd12bfd8).
 
-**Editors**
+**Writing Mode**
 
-When I first started down this path, I wasn't accustomed to writing in markdown so the first thing I did is clone some repositories to my local machine and look for a good markdown editor. This is where things got strange. It seems that writing in markdown has become something of a rising trend to the degree that there are several paid editors on the market with some even requiring a subscription. Thankfully I didn't capitulate to these scams and decided to just go all in and use VS Code as my editor. I had to brush up on the interface, staging and committing changes, and package installation. The exercise proved beneficial but one aspect of the workflow I still didn't like was the subpar Grammarly integration. 
+When I first started down this path, I wasn't accustomed to writing in markdown so the first thing I did is clone some repositories to my local machine and look for a good markdown editor. This is where things got strange. It seems that writing in markdown has become something of a rising trend to the degree that there are several paid editors on the market with some even requiring a subscription. That kind of blew my mind. A subscription text editor? Thankfully, I didn't capitulate and decided to just use [Visual Studio Code](https://code.visualstudio.com/) as my editor. I had to brush up on the IDE interface, staging and committing changes, and package installation. I few things I liked about this setup were
 
-By accident, I discovered that editing files directly from within the browser on the GitHub website itself proved sufficient for most things I was doing. After adding a Chrome extension that made editing markdown files even more friendly and realizing that the Grammarly chrome extension worked as well when this extension was enabled, I started to really fall into a daily groove. What's cool is that all my content is still available locally if needed (meaning I can interact with it with any application on my machine) but still conveniently available to be edited within a browser window. It's really the best of both worlds. 
+*   No third-party access to my repository
+*   Unambiguous git interactions
+*   Side-by-side rendering of markdown content
+*   A Grammarly extension (removed from the market place but still available [here](https://github.com/znck/grammarly/releases/tag/v0.12.2))
+*   Options to use "second/external brain" approaches with things like [Foam](https://foambubble.github.io/foam/)
 
-**Organization**
-
-A word on organization. Github projects. 
+The exercise proved beneficial but one aspect of the workflow I still really didn't like was the Grammarly integration. By accident, I discovered that editing files directly from within the browser on the GitHub website itself proved sufficient for most things I wanted to do. Talk about going full circle. After adding [GitHub Writer](https://github.com/ckeditor/github-writer), a browser extension that made editing markdown files even more friendly and realizing that the [Grammarly browser extension](https://support.grammarly.com/hc/en-us/articles/115000091552-Install-the-Grammarly-browser-extension) worked as well when this extension was enabled, I started to really fall into a groove. What's cool is that all my content is still available locally if needed (meaning I can interact with it with any application on my machine) but still conveniently available to be edited within a browser window. It's really the best of both worlds.
 
 **Image Management**
 
-Imgur and the upload app
+Image paths in GitHub repositories can be tricky. While GitHub does offer an [image hosting CDN](https://gist.github.com/vinkla/dca76249ba6b73c5dd66a4e986df4c8d) mechanism, there is no mechanism to view-all-uploaded or [delete images](https://stackoverflow.com/questions/33215211/github-how-do-i-delete-an-attachment-in-github-issues) once uploaded. I didn't want to use dropbox as that entire domain can be blocked on some corporate networks so landed on a slick [Imgur](https://imgur.com/) workflow that handles my local screenshot needs as well. With this [mac app](https://github.com/mileswd/mac2imgur) and an imgur account, you can drag and drop images to be uploaded or just take any screenshot and it will be uploaded to your account and the link copied to your clipboard. 
 
-**Presentation**
+**Content Presentation**
 
-Hack.md
+I'm most frequently working in private repositories but have a need to present content to people who don't have access. This is where [HackMD](https://hackmd.io/) comes in. It allows me to pull in content from a private repo and present it in a slide show way. Any updates to that file in git can be pulled into the HackMD version and it also allows pushing the other direction as well. 
 
-Awesome slides
+**Workflow and Organization**
 
-A good way to make private content public content.
-
-**The trivium of technical writing**
+*   Use issues for quick notes and prolonged ideation
+*   Migrate issue to document when you're ready to start on the document
+*   Use a project board with milestones to maintain a cadence
+*   Create your projects at the topmost level of your GitHub so you can use a single cross-cutting kanban board and link issues to any of your repositories.
 
 ...
 
@@ -38,27 +41,7 @@ GitHub projects and issues to the rescue. See the issue that tracked my thoughts
 
 **A Full Local Setup**
 
-If writing in git is largely about getting to the source of things then it makes sense to get to the source of things in tooling as well. This has been a rocky patch since taking on this experiment. A few things to take into mind:
-
-*   I thought I needed a markdown app to conveniently edit MD files in such a way that the rendered MD would appear next to my typed text. I even almost paid for this as a service.
-*   After trying several MD MacOS apps, I was disappointed that Grammarly did not work while using them so I looking at MD editor web solution because Grammarly works in the browser context. This proved to be not ideal because I had to grant the web app access to my GitHub account and atomic commits were weird as the web apps I tried were not clear in when they would since to my repo.
-
-So I've settled into using VS Code for my writing tool.
-
-*   No third-party access to my repo.
-*   Unambiguous git interaction.
-*   MD extension that permits side by side rendering of MD content.
-*   A Grammarly extension.
-*   Proximity to the source _and experience_ of things. This includes an ide interface, extension ecosystem, and two birds with one stone in learning a single way to write content and code.
-*   Building a second brain with [Foam](https://foambubble.github.io/foam/)
-
-But using VS Code meant brushing up on the following
-
-*   watched basic tutorials on VSCode
-*   Learned how to install extensions
-*   Learned how to push to github
-*   And who to edit/preview MD (cmd+k V)
-*   Grammarly removed from the market place. Use the package directly: [https://github.com/znck/grammarly/releases/tag/v0.12.2](https://github.com/znck/grammarly/releases/tag/v0.12.2)
+If writing in git is largely about getting to the source of things then it makes sense to get to the source of things in tooling as well. This has been a rocky patch since taking on this experiment. 
 
 A Minimal Setup in the Browser
 
@@ -100,25 +83,15 @@ Some notes on recent pattern changes and advances:
 *   Private journaling
 *   Github actions (entry point of executable content)
 *   Github as social network: [https://i.imgur.com/X7mhZ1E.jpg](https://i.imgur.com/X7mhZ1E.jpg)
-*   Easier MD writing with [chrome extension](https://github.com/ckeditor/github-writer)
-*   The github writer extension above makes Grammarly work!! Woooohooooo!
 *   A review of the vision: natural language to format language is a spectrum, not binary.
 *   Version control as the single resource of truth. GitOps
 *   From don't break the chain to quantified daily contribution with Github actions
-*   Don't break the chain on my watch: [https://apps.apple.com/us/app/contributions-for-github/id1153432612](https://apps.apple.com/us/app/contributions-for-github/id1153432612)
-*   A big circle from larger complexity to the simplest setup. (In browser editing with the markdown plugin + Grammarly)
-*   HackMD.io as a presentation and sharing mechanism
-*   How I'm handling images (Imgur + [https://github.com/mileswd/mac2imgur](https://github.com/mileswd/mac2imgur))
 
 Questions I said I would address in my previous post:
 
 *   The details of my new writing setup (The circle)
+
 *   Steps to migrate existing Google docs projects to GitHub ([https://www.buymeacoffee.com/docstomarkdown](https://www.buymeacoffee.com/docstomarkdown))
+*   Don't break the chain on my watch: [https://apps.apple.com/us/app/contributions-for-github/id1153432612](https://apps.apple.com/us/app/contributions-for-github/id1153432612)
+
 *   A status report on how things are going (Felt advantages: visibility. Facts confront feelings.)
-
-Tips:
-
-*   Use issues for quick notes and prolonged ideation
-*   Migrate issue to document when you're ready to start on the document
-*   Use a project board with milestones to maintain a cadence
-*   Create your projects at the topmost level of your GitHub so you can use a single cross-cutting kanban board and link issues to any of your repositories.
