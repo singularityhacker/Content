@@ -2,7 +2,13 @@
 
 ![Writing in GutHub 2](https://i.imgur.com/7q9dp9A.png)
 
-In a [previous post](https://medium.com/@justiceconder/writing-on-github-c35ddd12bfd8), I spoke about moving to GitHub as a technical writing platform. In this post, I will address some of the challenges I faced, methods of resolution, and future goals as I continue down this journey. If you want to know the exact reasons I have made this change, review my [previous post](https://medium.com/@justiceconder/writing-on-github-c35ddd12bfd8).
+In a [previous post](https://medium.com/@justiceconder/writing-on-github-c35ddd12bfd8), I spoke about moving to GitHub as a technical writing platform. In this post, I will address some of the challenges I faced, methods of resolution, and future goals as I continue down this journey. If you want to know the exact reasons I have made this change you can review that [previous post](https://medium.com/@justiceconder/writing-on-github-c35ddd12bfd8).
+
+But just to recap some of the largest points: 
+
+*   Knowledge workers should be consistently producing useful content
+*   The most precise way of measuring and collaborating on that content is with a version control system
+*   GitHub naturally presents itself as an ideal platform for this 
 
 **Writing Modes**
 
@@ -32,13 +38,8 @@ I'm most frequently working in private repositories but have a need to present c
 
 **Future Steps**
 
-One of the several motivations I had in making the move to writing on GitHub was to encourage a don't-break-the-chain pattern. This is useful as can be seen from my commit history since June. I even went to the trouble of adding my commit-graph to my Apple watch with [this app](https://apps.apple.com/us/app/contributions-for-github/id1153432612). I consider this a good first pass at what I'm trying to accomplish but I think I'm increasingly eager to move into the next step of quantifying this output. Next steps will be:
+One of the several motivations I had in making the move to writing on GitHub was to encourage a don't-break-the-chain pattern. This is useful as can be seen from my commit history since June. I even went to the trouble of adding my commit-graph to my Apple watch with [this app](https://apps.apple.com/us/app/contributions-for-github/id1153432612). I consider this a good first pass at what I'm trying to accomplish but I think I'm increasingly eager to move into the next step of quantifying this output. 
 
-1.  Quantify daily word count, not just commits
-    1.  The GitHub commit-graph counts two commits of two words each as more than a single commit of a thousand words so it's really not a good proxy of consistent content creation.
-    2.  I want to start quantifying commits by word count. Just like lines of code, word count is not a determining factor on good work but it means some activity/effort is happening.
-    3.  I think I can accomplish something like this with a GitHub action.
-2.  "Release" more frequently
-    1.  If authoring can be construed as development and publishing (as a presentation, article, or documentation) can be viewed as deployment, then I need to deploy a lot more frequently.
+The next logical step will be to quantify daily word count, and not just commits. The GitHub commit-graph counts two commits of one word each as more than a single commit of a thousand words so it's really not a good proxy of consistent content creation. Just like lines of code, word count is not a determining factor of good work but it means some activity/effort is happening. I'm hopeful that I'll be able to accomplish something like this with a GitHub action. Secondly, I'd really like to be "releasing" more frequently. If authoring can be construed as development and publishing (as a presentation, article, or documentation) can be viewed as deployment, then I need to deploy a lot more frequently.
 
 This is the conclusion of my second update on this journey. Feel free to follow me on [Medium](https://medium.com/@justiceconder) or [GitHub](https://github.com/singularityhacker) to get future updates or possibly collaborate on future endeavors.
