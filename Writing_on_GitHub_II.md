@@ -22,7 +22,7 @@ Image paths in GitHub repositories can be tricky. While GitHub does offer an [im
 
 **Organization and Workflow**
 
-I am staying organized on priorities and in-flight work with [GitHub project board](https://github.com/features/project-management/). I recommend creating your main project board at the topmost level of your GitHub account so you can use a single cross-cutting board to link issues to any of your repositories. If you make it at the level of a single repository then it is scoped to that repository. Milestones can be used to create a cadence if you are working in sprints. 
+I am staying organized on priorities and in-flight work with [GitHub project board](https://github.com/features/project-management/). I recommend creating your main project board at the topmost level of your GitHub account so you can use a single cross-cutting board to link issues to any of your repositories. If you make it at the level of a single repository then it is scoped to that repository. Milestones can be used to create a cadence if you are working in sprints.
 
 My workflow starts with creating an issue. I'll add miscellaneous thoughts into the issue as ideas come to me on a topic and also talk through issues with peers. When it seems the ideas are fleshed out sufficiently, then a new markdown file can be created in the relevant repo and a first draft created and committed from those developed notes in the issue. This is [the issue](https://github.com/singularityhacker/Content/issues/2) that started this very post.
 
@@ -32,17 +32,16 @@ I'm most frequently working in private repositories but have a need to present c
 
 **Future Steps**
 
-One of the several motivations I had in making the move to writing on GitHub was to encourage a don't-break-the-chain pattern. 
+One of the several motivations I had in making the move to writing on GitHub was to encourage a don't-break-the-chain pattern. This is useful as can be seen from my commit history since June. I even went to the trouble of adding my commit-graph to my Apple watch with [this app](https://apps.apple.com/us/app/contributions-for-github/id1153432612). I consider this a good first pass at what I'm trying to accomplish but I think I'm increasingly eager to move into the next step of quantifying this output. Next steps will be:
 
- of From don't break the chain to quantified daily contribution with Github actions
+1.  Quantify daily word count, not just commits
+    1.  The GitHub commit-graph counts two commits of two words each as more than a single commit of a thousand words so it's really not a good proxy of consistent content creation. 
+    2.  I want to start quantifying commits by word count. Just like lines of code, word count is not a determining factor on good work but it means some activity/effort is happening. 
+    3.  I think I can accomplish something like this with a GitHub action.
+2.  "Release" more frequently
+    1.  If authoring can be construed as development and publishing (as a presentation, article, or documentation) can be viewed as deployment, then I need to deploy a lot more frequently. 
 
-Volume: link to word count plugin
-
-Github actions (entry point of executable content)
-
-Don't break the chain on my watch: [https://apps.apple.com/us/app/contributions-for-github/id1153432612](https://apps.apple.com/us/app/contributions-for-github/id1153432612)
-
-Questions I said I would address in my previous post: A status report on how things are going (Felt advantages: visibility. Facts confront feelings.)
+This is the conclusion of my second update on this journey. Feel free to follow me on [Medium](https://medium.com/@justiceconder) or [GitHub](https://github.com/singularityhacker) to get future updates or possibly collaborate on future endeavors. 
 
 ---
 
