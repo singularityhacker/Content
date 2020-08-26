@@ -35,49 +35,10 @@ I'm most frequently working in private repositories but have a need to present c
 One of the several motivations I had in making the move to writing on GitHub was to encourage a don't-break-the-chain pattern. This is useful as can be seen from my commit history since June. I even went to the trouble of adding my commit-graph to my Apple watch with [this app](https://apps.apple.com/us/app/contributions-for-github/id1153432612). I consider this a good first pass at what I'm trying to accomplish but I think I'm increasingly eager to move into the next step of quantifying this output. Next steps will be:
 
 1.  Quantify daily word count, not just commits
-    1.  The GitHub commit-graph counts two commits of two words each as more than a single commit of a thousand words so it's really not a good proxy of consistent content creation. 
-    2.  I want to start quantifying commits by word count. Just like lines of code, word count is not a determining factor on good work but it means some activity/effort is happening. 
+    1.  The GitHub commit-graph counts two commits of two words each as more than a single commit of a thousand words so it's really not a good proxy of consistent content creation.
+    2.  I want to start quantifying commits by word count. Just like lines of code, word count is not a determining factor on good work but it means some activity/effort is happening.
     3.  I think I can accomplish something like this with a GitHub action.
 2.  "Release" more frequently
-    1.  If authoring can be construed as development and publishing (as a presentation, article, or documentation) can be viewed as deployment, then I need to deploy a lot more frequently. 
+    1.  If authoring can be construed as development and publishing (as a presentation, article, or documentation) can be viewed as deployment, then I need to deploy a lot more frequently.
 
-This is the conclusion of my second update on this journey. Feel free to follow me on [Medium](https://medium.com/@justiceconder) or [GitHub](https://github.com/singularityhacker) to get future updates or possibly collaborate on future endeavors. 
-
----
-
-**The trivium of technical writing**
-
-Code/Content/Diagrams
-
-See the triangle: diagram/content/code
-
-Not suggesting a curry-Howard correspondence but a meaningful continuum.
-
-We are made for image recognition. The memory master leverage cognitive cathedrals to retain large amounts of information. Even some programming languages are introducing this correspondence: [https://ballerina.io/](https://ballerina.io/)
-
-Content as "wet code" and code as "dry code": [http://unenumerated.blogspot.com/2006/11/wet-code-and-dry.html](http://unenumerated.blogspot.com/2006/11/wet-code-and-dry.html)
-
-Content/code is a continuum, not binary. The code should be self-documenting and content should be precise enough to be formally modeled to some extent.
-
-On the idea that code/content as a continuum:
-
-*   [https://meta.wikimedia.org/wiki/Abstract_Wikipedia/July_2020_announcement](https://meta.wikimedia.org/wiki/Abstract_Wikipedia/July_2020_announcement)
-*   [https://www.inklestudios.com/ink/](https://www.inklestudios.com/ink/)
-*   [https://en.wikipedia.org/wiki/AI_Dungeon_2](https://en.wikipedia.org/wiki/AI_Dungeon_2)
-*   https://beta.openai.com/
-
-Authoring or writing as "development" and publication as "deployment"
-
-**Importance of written communication**
-
-*   [Written communication is remote work](https://snir.dev/blog/remote-async-communication/) superpower
-*   [Why writing matters in remote work](http://www.timcasasola.com/blog/writing)
-*   :point\_up\_2: The above post got amplified right on up to [Chris Coyier](https://css-tricks.com/why-does-writing-matter-in-remote-work/)
-
-Notes to touch on:
-
-Some notes on recent pattern changes and advances:
-
-*   Github as social network: [https://i.imgur.com/X7mhZ1E.jpg](https://i.imgur.com/X7mhZ1E.jpg)
-*   A review of the vision: natural language to format language is a spectrum, not binary.
-*   Version control as the single resource of truth. GitOps
+This is the conclusion of my second update on this journey. Feel free to follow me on [Medium](https://medium.com/@justiceconder) or [GitHub](https://github.com/singularityhacker) to get future updates or possibly collaborate on future endeavors.
