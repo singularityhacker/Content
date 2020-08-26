@@ -4,11 +4,11 @@
 
 In a [previous post](https://medium.com/@justiceconder/writing-on-github-c35ddd12bfd8), I spoke about moving to GitHub as a technical writing platform. In this post, I will address some of the challenges I faced, methods of resolution, and future goals as I continue down this journey. If you want to know the exact reasons I have made this change you can review that [previous post](https://medium.com/@justiceconder/writing-on-github-c35ddd12bfd8).
 
-But just to recap some of the largest points: 
+But just to recap some of the largest points:
 
 *   Knowledge workers should be consistently producing useful content
 *   The most precise way of measuring and collaborating on that content is with a version control system
-*   GitHub naturally presents itself as an ideal platform for this 
+*   GitHub naturally presents itself as an ideal platform for this
 
 **Writing Modes**
 
@@ -24,11 +24,11 @@ The exercise proved beneficial but one aspect of the workflow I still really did
 
 **Image Management**
 
-Image paths in GitHub repositories can be tricky. While GitHub does offer an [image hosting CDN](https://gist.github.com/vinkla/dca76249ba6b73c5dd66a4e986df4c8d) mechanism, there is no mechanism to view-all-uploaded or [delete images](https://stackoverflow.com/questions/33215211/github-how-do-i-delete-an-attachment-in-github-issues) once uploaded. I didn't want to use dropbox as that entire domain can be blocked on some corporate networks so landed on a slick [Imgur](https://imgur.com/) workflow that handles my local screenshot needs as well. With this [mac app](https://github.com/mileswd/mac2imgur) and an imgur account, you can drag and drop images to be uploaded or just take any screenshot and it will be uploaded to your account and the link copied to your clipboard.
+Image paths in GitHub repositories can be tricky. While GitHub does offer an [image hosting CDN](https://gist.github.com/vinkla/dca76249ba6b73c5dd66a4e986df4c8d) mechanism, there is no mechanism to view-all-uploaded or [delete images](https://stackoverflow.com/questions/33215211/github-how-do-i-delete-an-attachment-in-github-issues) once uploaded. I didn't want to use dropbox as that entire domain can be blocked on some corporate networks so landed on a slick [Imgur](https://imgur.com/) workflow that handles my local screenshot needs as well. With this [mac app](https://github.com/mileswd/mac2imgur) and an Imgur account, you can drag and drop images to be uploaded or just take any screenshot and it will be uploaded to your account and the link copied to your clipboard.
 
 **Organization and Workflow**
 
-I am staying organized on priorities and in-flight work with [GitHub project board](https://github.com/features/project-management/). I recommend creating your main project board at the topmost level of your GitHub account so you can use a single cross-cutting board to link issues to any of your repositories. If you make it at the level of a single repository then it is scoped to that repository. Milestones can be used to create a cadence if you are working in sprints.
+I am staying organized on priorities and in-flight work with a [GitHub project board](https://github.com/features/project-management/). I recommend creating your main project board at the topmost level of your GitHub account so you can use a single cross-cutting board to link issues to any of your repositories. If you make it at the level of a single repository then it is scoped to that repository. Milestones can be used to create a cadence if you are working in sprints.
 
 My workflow starts with creating an issue. I'll add miscellaneous thoughts into the issue as ideas come to me on a topic and also talk through issues with peers. When it seems the ideas are fleshed out sufficiently, then a new markdown file can be created in the relevant repo and a first draft created and committed from those developed notes in the issue. This is [the issue](https://github.com/singularityhacker/Content/issues/2) that started this very post.
 
@@ -38,8 +38,8 @@ I'm most frequently working in private repositories but have a need to present c
 
 **Future Steps**
 
-One of the several motivations I had in making the move to writing on GitHub was to encourage a don't-break-the-chain pattern. This is useful as can be seen from my commit history since June. I even went to the trouble of adding my commit-graph to my Apple watch with [this app](https://apps.apple.com/us/app/contributions-for-github/id1153432612). I consider this a good first pass at what I'm trying to accomplish but I think I'm increasingly eager to move into the next step of quantifying this output. 
+One of the several motivations I had in making the move to writing on GitHub was to encourage a don't-break-the-chain pattern. This is useful as can be seen from my commit history since June. I even went to the trouble of adding my commit-graph to my Apple watch with [this app](https://apps.apple.com/us/app/contributions-for-github/id1153432612). I consider this a good first pass at what I'm trying to accomplish but I think I'm increasingly eager to move into the next step of quantifying this output.
 
-The next logical step will be to quantify daily word count, and not just commits. The GitHub commit-graph counts two commits of one word each as more than a single commit of a thousand words so it's really not a good proxy of consistent content creation. Just like lines of code, word count is not a determining factor of good work but it means some activity/effort is happening. I'm hopeful that I'll be able to accomplish something like this with a GitHub action. Secondly, I'd really like to be "releasing" more frequently. If authoring can be construed as development and publishing (as a presentation, article, or documentation) can be viewed as deployment, then I need to deploy a lot more frequently.
+The next logical step will be to quantify daily word count, and not just commits. The GitHub commit-graph counts two commits of one word each as more than a single commit of a thousand words so it's really not a good proxy of consistent content creation. Just like lines of code, word count is not a determining factor of good work but it means some activity/effort is happening. I'm hopeful that I'll be able to accomplish something like this with a [GitHub action](https://github.com/features/actions). Secondly, I'd really like to be "releasing" more frequently. If authoring can be construed as development and publishing (as a presentation, article, or documentation) can be viewed as deployment, then I need to deploy a lot more frequently.
 
 This is the conclusion of my second update on this journey. Feel free to follow me on [Medium](https://medium.com/@justiceconder) or [GitHub](https://github.com/singularityhacker) to get future updates or possibly collaborate on future endeavors.
