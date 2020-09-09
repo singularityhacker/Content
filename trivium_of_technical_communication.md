@@ -1,4 +1,6 @@
-**The Trivium of Technical Communication** :small\_red\_triangle:
+# **The Trivium of Technical Communication** :small\_red\_triangle:
+
+![](https://i.imgur.com/CV66B1j.png)
 
 I am increasingly convinced that the most effective communication or documentation is presented in three forms: Code, content, and diagram. I am not suggesting something as strong as a [Curry–Howard correspondence](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence) but a very meaningful continuum between the three. 
 
