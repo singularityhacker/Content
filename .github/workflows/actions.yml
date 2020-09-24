@@ -4,21 +4,30 @@ on: [push]
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     strategy:
       matrix:
-        node-version: [8.x, 10.x, 12.x]
+        node-version: [10.x]
 
     steps:
-    - uses: actions/checkout@v2
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v1
-      with:
-        node-version: ${{ matrix.node-version }}
-    - run: npm install
-    - run: npm run build --if-present
-    - run: npm test
-      env:
-        CI: true
+      - name: Check out repository
+        uses: actions/checkout@v2
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+      - name: Install dependencies
+        run: npm i
+      - name: wordCount.js to check for changed words
+        run: node wordCount.js
+      - name: Commit and push if changed
+        run: |-
+          git diff
+          git config --global user.email "wordCount-bot@example.com"
+          git config --global user.name "wordCount-bot"
+          git add -A
+          git commit -m "Updated logfile.json content with newest word count changes" || exit 0
+          git push
+        env:
+          CI: true

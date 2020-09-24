@@ -28,7 +28,7 @@ glob("**/*.md", { ignore: ["**/node_modules/**", "**/README.md"] }, function (
 
     if (!existingFileName) {
       console.info(
-        `'${fileName}' seems to be a new file, adding to word count log file...`
+        `'${fileName}' seems to be a new file, adding to wordCount.js log file...`
       );
 
       const newContent = {
@@ -45,7 +45,8 @@ glob("**/*.md", { ignore: ["**/node_modules/**", "**/README.md"] }, function (
 
       const currentWords = existingFileName[latestTimestamp].currentWords;
 
-      const wordCountExisting = currentWords ?? existingFileName.initialWords;
+      const wordCountExisting =
+        currentWords != null ? currentWords : existingFileName.initialWords;
       const wordCountNew = readingTime(markdownFileContent).words;
 
       const diffTimestamp = new Date().toISOString();
