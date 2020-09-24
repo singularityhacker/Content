@@ -1,1 +1,107 @@
-{"Agile_as_Engineering_Abstraction":{"initialWords":441},"Agile_Sizing_Scales":{"initialWords":242},"Computronium/Computronium_Notes":{"initialWords":1643},"Computronium/Computronium_Story":{"initialWords":2463},"Contracts":{"initialWords":64},"cypherpunk-revolution":{"initialWords":6299},"Inferring_Nexus_Patterns":{"initialWords":36},"Interface_Design_Patterns":{"initialWords":72},"Micro_Content_and_Automated_ Learning":{"initialWords":41},"Orgs_as_Scrum_DACs":{"initialWords":135},"Project_vs_Feature_Thinking":{"initialWords":96,"2020-09-23T20:51:03.975Z":{"diff":12,"currentWords":108},"2020-09-23T20:51:29.011Z":{"diff":-78,"currentWords":30},"2020-09-24T08:13:26.199Z":{"diff":78,"currentWords":108}},"Scaling_Scrum_with_AntiScrum":{"initialWords":136},"singularity-hacker-book/digital-nations-and-economy20":{"initialWords":2275},"singularity-hacker-book/digital-power-laws":{"initialWords":1606},"singularity-hacker-book/hardware-and-software":{"initialWords":2408},"singularity-hacker-book/intelligence-and-cyberspace":{"initialWords":1762},"singularity-hacker-book/knowing-the-future":{"initialWords":1769},"singularity-hacker-book/personal-survival":{"initialWords":1567},"singularity-hacker-book/security-and-emulation":{"initialWords":1195},"singularity-hacker-book/table-of-contents":{"initialWords":34},"singularity-hacker-book/the-singularity":{"initialWords":2801},"skynet-piggy-bank":{"initialWords":264},"The_Two-Axis_Org_Model":{"initialWords":101,"2020-09-23T20:51:04.001Z":{"diff":-2,"currentWords":99},"2020-09-23T20:53:04.822Z":{"diff":-41,"currentWords":58},"2020-09-24T08:13:26.222Z":{"diff":41,"currentWords":99}},"trivium_of_technical_communication":{"initialWords":657},"Writing_on_GitHub_II":{"initialWords":984},"Writing_on_GitHub":{"initialWords":501}}
+{
+  "Agile_as_Engineering_Abstraction": {
+    "initialWords": 441
+  },
+  "Agile_Sizing_Scales": {
+    "initialWords": 242
+  },
+  "Computronium/Computronium_Notes": {
+    "initialWords": 1643
+  },
+  "Computronium/Computronium_Story": {
+    "initialWords": 2463
+  },
+  "Contracts": {
+    "initialWords": 64
+  },
+  "cypherpunk-revolution": {
+    "initialWords": 6299
+  },
+  "Inferring_Nexus_Patterns": {
+    "initialWords": 36
+  },
+  "Interface_Design_Patterns": {
+    "initialWords": 72
+  },
+  "Micro_Content_and_Automated_ Learning": {
+    "initialWords": 41
+  },
+  "Orgs_as_Scrum_DACs": {
+    "initialWords": 135
+  },
+  "Project_vs_Feature_Thinking": {
+    "initialWords": 96,
+    "2020-09-23T20:51:03.975Z": {
+      "diff": 12,
+      "currentWords": 108
+    },
+    "2020-09-23T20:51:29.011Z": {
+      "diff": -78,
+      "currentWords": 30
+    },
+    "2020-09-24T08:13:26.199Z": {
+      "diff": 78,
+      "currentWords": 108
+    }
+  },
+  "Scaling_Scrum_with_AntiScrum": {
+    "initialWords": 136
+  },
+  "singularity-hacker-book/digital-nations-and-economy20": {
+    "initialWords": 2275
+  },
+  "singularity-hacker-book/digital-power-laws": {
+    "initialWords": 1606
+  },
+  "singularity-hacker-book/hardware-and-software": {
+    "initialWords": 2408
+  },
+  "singularity-hacker-book/intelligence-and-cyberspace": {
+    "initialWords": 1762
+  },
+  "singularity-hacker-book/knowing-the-future": {
+    "initialWords": 1769
+  },
+  "singularity-hacker-book/personal-survival": {
+    "initialWords": 1567
+  },
+  "singularity-hacker-book/security-and-emulation": {
+    "initialWords": 1195
+  },
+  "singularity-hacker-book/table-of-contents": {
+    "initialWords": 34
+  },
+  "singularity-hacker-book/the-singularity": {
+    "initialWords": 2801
+  },
+  "skynet-piggy-bank": {
+    "initialWords": 264
+  },
+  "The_Two-Axis_Org_Model": {
+    "initialWords": 101,
+    "2020-09-23T20:51:04.001Z": {
+      "diff": -2,
+      "currentWords": 99
+    },
+    "2020-09-23T20:53:04.822Z": {
+      "diff": -41,
+      "currentWords": 58
+    },
+    "2020-09-24T08:13:26.222Z": {
+      "diff": 41,
+      "currentWords": 99
+    }
+  },
+  "trivium_of_technical_communication": {
+    "initialWords": 657
+  },
+  "Writing_on_GitHub_II": {
+    "initialWords": 984
+  },
+  "Writing_on_GitHub": {
+    "initialWords": 501
+  },
+  "testfile": {
+    "initialWords": 96
+  }
+}
