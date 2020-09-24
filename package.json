@@ -1,0 +1,21 @@
+{
+  "name": "singularityhacker-content",
+  "version": "1.0.0",
+  "description": "Various articles, blog posts, and content ideas I'm working on.",
+  "main": "wordCount.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singularityhacker/Content.git"
+  },
+  "dependencies": {
+    "glob": "^7.1.6",
+    "reading-time": "^1.2.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/singularityhacker/Content/issues"
+  },
+  "homepage": "https://github.com/singularityhacker/Content#readme"
+}
