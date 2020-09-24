@@ -66,7 +66,11 @@
     "initialWords": 264
   },
   "testfile": {
-    "initialWords": 1
+    "initialWords": 1,
+    "2020-09-24T12:14:28.922Z": {
+      "diff": 17,
+      "currentWords": 18
+    }
   },
   "The_Two-Axis_Org_Model": {
     "initialWords": 99
