@@ -102,6 +102,10 @@
     "initialWords": 501
   },
   "testfile": {
-    "initialWords": 96
+    "initialWords": 96,
+    "2020-09-24T08:31:23.476Z": {
+      "diff": -25,
+      "currentWords": 71
+    }
   }
 }
