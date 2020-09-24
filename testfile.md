@@ -1,1 +1,1 @@
-Foo bar this is a test of the new word count feature. Woo hoo, I think it works! Foo bar this is a test of the new word count feature. Woo hoo, I think it works!
+Foo bar this is a test of the new word count feature. Woo hoo, I think it works! Foo bar this is a test of the new word count feature. Woo hoo, I think it works! Foo bar this is a test of the new word count feature. Woo hoo, I think it works! Foo bar this is a test of the new word count feature. Woo hoo, I think it works!
