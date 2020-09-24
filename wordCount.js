@@ -38,7 +38,7 @@ glob("**/*.md", { ignore: ["**/node_modules/**", "**/README.md"] }, function (
         },
       };
 
-      fs.writeFileSync(logFilePath, JSON.stringify(newContent));
+      fs.writeFileSync(logFilePath, JSON.stringify(newContent, null, 2));
     } else {
       const fileObjKeys = Object.keys(existingFileName);
       const latestTimestamp = fileObjKeys[fileObjKeys.length - 1];
@@ -68,7 +68,7 @@ glob("**/*.md", { ignore: ["**/node_modules/**", "**/README.md"] }, function (
 
         fs.writeFileSync(
           logFilePath,
-          JSON.stringify(updatingFileWithDiffContent)
+          JSON.stringify(updatingFileWithDiffContent, null, 2)
         );
       }
     }
