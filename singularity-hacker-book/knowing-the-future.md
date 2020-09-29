@@ -1,6 +1,6 @@
 **Chapter 1: The Power of Prescience**
 
-This is a footnote test \[^1\].
+This is a footnote test [^1].
 
 My Own Successes
 
@@ -104,4 +104,6 @@ Quality and the spread of the algorithmic method: Formal methods for design, tes
 
 Pure mathematical models of systems gain ground FRP & Graph Theory descriptions
 
-\[^1\]: this is a footnote test
+[^1]: this is a footnote test
+
+*    [ ]
