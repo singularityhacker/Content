@@ -3,7 +3,7 @@
 This is a footnote test \[^1\].  
 [1](#myfootnote1)
 
-GOOO<sup>[1](#myfootnote1)</sup>GGG [1](#myfootnote1)
+GOOO[1](#myfootnote1)GGG [1](#myfootnote1)
 
 My Own Successes
 
