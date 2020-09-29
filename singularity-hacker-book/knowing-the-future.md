@@ -1,6 +1,7 @@
 **Chapter 1: The Power of Prescience**
 
 This is a footnote test [^1].
+<sup>[1](#myfootnote1)</sup>
 
 My Own Successes
 
@@ -106,4 +107,4 @@ Pure mathematical models of systems gain ground FRP & Graph Theory descriptions
 
 [^1]: this is a footnote test
 
-*    [ ]
+<a name="myfootnote1">1</a>: Footnote content goes here
