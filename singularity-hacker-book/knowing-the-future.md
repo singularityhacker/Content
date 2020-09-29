@@ -1,7 +1,9 @@
 **Chapter 1: The Power of Prescience**
 
-This is a footnote test [^1].
-<sup>[1](#myfootnote1)</sup>
+This is a footnote test \[^1\].  
+[1](#myfootnote1)
+
+GOOO<sup>[1](#myfootnote1)</sup>GGG [1](#myfootnote1)
 
 My Own Successes
 
@@ -105,6 +107,6 @@ Quality and the spread of the algorithmic method: Formal methods for design, tes
 
 Pure mathematical models of systems gain ground FRP & Graph Theory descriptions
 
-[^1]: this is a footnote test
+\---
 
-<a name="myfootnote1">1</a>: Footnote content goes here
+1: Footnote content goes here
