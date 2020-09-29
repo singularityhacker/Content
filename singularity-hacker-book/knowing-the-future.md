@@ -1,5 +1,7 @@
 **Chapter 1: The Power of Prescience**
 
+This is a footnote test \[^1\].
+
 My Own Successes
 
 Not Your Granddaddy's IT
@@ -101,3 +103,5 @@ Distribution technologies like IPFS & Blockchain to democratize business monolit
 Quality and the spread of the algorithmic method: Formal methods for design, testing, business models (growth hacking)
 
 Pure mathematical models of systems gain ground FRP & Graph Theory descriptions
+
+\[^1\]: this is a footnote test
