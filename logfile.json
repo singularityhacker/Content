@@ -48,7 +48,11 @@
     "initialWords": 1762
   },
   "singularity-hacker-book/knowing-the-future": {
-    "initialWords": 1769
+    "initialWords": 1769,
+    "2020-09-29T01:12:59.799Z": {
+      "diff": -19,
+      "currentWords": 1750
+    }
   },
   "singularity-hacker-book/personal-survival": {
     "initialWords": 1567
