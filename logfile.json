@@ -39,7 +39,11 @@
     "initialWords": 2275
   },
   "singularity-hacker-book/digital-power-laws": {
-    "initialWords": 1606
+    "initialWords": 1606,
+    "2020-10-02T11:11:51.219Z": {
+      "diff": -12,
+      "currentWords": 1594
+    }
   },
   "singularity-hacker-book/hardware-and-software": {
     "initialWords": 2408
