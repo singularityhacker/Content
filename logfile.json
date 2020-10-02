@@ -88,7 +88,11 @@
     "initialWords": 34
   },
   "singularity-hacker-book/the-singularity": {
-    "initialWords": 2801
+    "initialWords": 2801,
+    "2020-10-02T12:31:15.752Z": {
+      "diff": -42,
+      "currentWords": 2759
+    }
   },
   "skynet-piggy-bank": {
     "initialWords": 264
