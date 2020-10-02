@@ -1,16 +1,9 @@
-**2\. The Singularity**
+**Chapter 2: The Singularity as Predictive Theory**
 
-**A Predictive theory**
-
-The Singularity Mindset
-
-[Digital Dominance](#bookmark=id.akgqawmbnf50)
-
-[Accelerated Change](#bookmark=id.30pnebrlfqww)
-
-[Inevitability](#bookmark=id.yd3egd74f40z)
-
-> “..if the technological Singularity can happen, it will.” - Vernor Vinge
+1.  The Singularity Mindset
+2.  Digital Dominance
+3.  Accelerated Change
+4.  Inevitability
 
 > “Any sufficiently advanced technology is indistinguishable from magic” - Arthur C. Clarke’s Third Law
 
@@ -18,17 +11,49 @@ The Singularity Mindset
 
 > “I keep saying Alexa when I mean to say Siri and I just can’t believe I live in a time where I am getting my servant robot names mixed up.” - @roastedryebread
 
-In the previous chapter, we discussed the incredible value of being able to know the future, even if only in general terms. In this chapter, we will get into the meat of the predictive model that will allow us to see that future. 
+In the previous chapter, we discussed the incredible value of being able to know the future, even if only in general terms. In this chapter, we will get into the meat of the predictive model that will allow us to see that future. This predictive model is called the technological singularity. In much the same way as the laws of physics breakdown in a black hole resulting in a singularity, a point beyond which all predictive power vanishes, so the theory predicts that we are converging on a time in history where it will be impossible to predict the advance of human civilizations because unprecedented changes in technology change the world in ways we have ever known.
 
-The Singularity Mindset
+Some have pointed out that it a technological singularity must not be too unknowable else we wouldn't be able to talk about it but this unknowability is just a manner of speaking. Because in the same way that physicist talk about a singularity in a black hole they still rigorously theorize about the inner working and mechanics of said blackholes. In much the same way, we don't need to concede to unknowability in discussing the timing or properties of a technological singularity. So how should we understand this singularity if we do not bar against its knowability in some sense? I think we can frame it in the following way. 
 
-Working backward from the end..
+A singularity is a tipping point beyond which all previous methods of predicting and understanding are radically and fundamentally changed. I will not spend much time trying to convince the reader that there is an impending technological singularity but I will talk about how such a theory can be useful in making predictions and discuss what I believe are its driving forces and particular spread pattern. 
 
-The working theory that we will grapple with is called the theory of the technological singularity. In its most general terms, it posits that information technology is growing exponentially in capability versus cost and availability and that anything touched by information technology should expect to see the same growth. It further theorizes that our ability to predict and imagine the future is drastically diminished with time because of these rapid changes, hence the language of singularity. Lastly, it states that there will indeed be a kind of last invention of man, namely the creation of the first human-level artificial intelligence. This will be the last invention because all future improvements to that first AI will be accomplished by the previous AI’s resulting in a recursively self-improving ever-growing explosion in artificial superintelligence.
+**Predictive Power**
 
-Not every aspect of what’s described above is a necessary element to the theory and not every element is needed for it to be leveraged in an advantageous way.
+First, let's take about the predictive power of the singularity..
+
+> “We are currently preparing students for jobs that don’t yet exist using technologies that haven’t been invented … in order to solve problems we don’t even know are problems yet.” - [Karl Fisch](https://www.edsurge.com/news/2018-11-06-has-shift-happened-revisiting-a-viral-video-from-2008)
 
 If you don’t grasp the idea of the technological singularity or are not informed as to its driving laws, then you are not prepared to make good strategic business decisions.
+
+Bezos could have seen the 1000% internet growth and interpreted it as a bubble or he could have seen Amazon internal infrastructure growth as just a solution for themselves. Its only through the assumption of unlimited growth potential 
+
+**The Spread Pattern**
+
+aka digital dominance
+
+information technology is growing exponentially in capability versus cost and availability and that anything touched by information technology should expect to see the same growth. 
+
+**Accelerated Change**
+
+...
+
+**Inevitability**
+
+> “..if the technological Singularity can happen, it will.” - Vernor Vinge
+
+...
+
+**Conclusion**
+
+In the next chapter, we'll discover the driving laws or observable engines of the singularity.
+
+---
+
+our ability to predict and imagine the future is drastically diminished with time because of these rapid changes, hence the language of singularity. 
+
+Lastly, it states that there will indeed be a kind of last invention of man, namely the creation of the first human-level artificial intelligence. This will be the last invention because all future improvements to that first AI will be accomplished by the previous AI’s resulting in a recursively self-improving ever-growing explosion in artificial superintelligence.
+
+Not every aspect of what’s described above is a necessary element to the theory and not every element is needed for it to be leveraged in an advantageous way.
 
 There are a lot of approaches and methodologies that organically flow from a singularity mindset. But it’s possible to adopt many of these philosophies without understanding the big picture of why they exist. This often manifests in wooden dedication to methods without understanding the spirit and purpose behind their inception. This happens all the time.
 
@@ -108,8 +133,6 @@ https://en.wikipedia.org/wiki/AI_effect
 List all the things that people said a computer would never be able to do and the dates when computers did those things. How great was the gap?
 
 Accelerated Change
-
-> “We are currently preparing students for jobs that don’t yet exist using technologies that haven’t been invented … in order to solve problems we don’t even know are problems yet.” - [Karl Fisch](https://www.edsurge.com/news/2018-11-06-has-shift-happened-revisiting-a-viral-video-from-2008)
 
 One characteristic of the theory of the technological singularity is accelerated change or time compression as some have called it. It’s simple. The idea is that the approaching changes in technology and society are accelerating and will continue to do so until we reach the point beyond which its impossible to imagine or predict. In fact, the changes are predicted to come so fast that people suffer from something called future shock. These observations were made before modern computers too.
 
