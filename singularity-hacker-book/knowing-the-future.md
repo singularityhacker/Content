@@ -1,24 +1,21 @@
 **Chapter 1: The Power of Prescience**
 
-My Own Successes
-
-Not Your Granddaddy's IT
-
-Notable Successes
-
-The Power of Prescience
-
-> "We tend to overestimate the effect of a technology in the short run and underestimate the effect in the long run." - Amara's Law
+1.  Introduction
+2.  Not Your Granddaddy's IT
+3.  Notable Successes
+4.  Conclusion
 
 > Computers in the future may have only 1,000 vacuum tubes and perhaps only weigh 1 ½ tons. - Popular Mechanics, 1949
+
+**Introduction**
 
 What’s the value of knowing the future? How far ahead would you need to be able to look for it to be valuable? In today's fast-paced world, knowing even a moment into the future would be of inestimable worth. Algorithmic traders gain billion-dollar advantages by shaving milliseconds off trades. Knowing the future or even generic characteristics of it can be incalculably valuable. So how would you respond if I told you that there was a roadmap for how all technological advancement would progress along with specific properties at specific growth rates? How would this knowledge affect your decisions on business, investing, and education?
 
 I've been fascinated with predicting the future ever since I got into technology. There’s a sense in which my whole career in information technology has been about predicting the future. As an entrepreneur, I needed to predict the future of the market at the macroscale. This entailed designing technology that was relatively future proof and having some idea of where business was heading. As an Agile practitioner, I need to be able to predict the future at the microscale. This means having a sense of relative size and effort of software engineering tasks and carefully interpreting the past to inform and improve future predictions.
 
-I don’t do any of these things by wizardry or with a crystal ball. It’s done carefully and rigorously by applying principles and trends and observing and extrapolating from the past. And as a scrappy hacker, I look for happy paths and hidden shortcuts to make jumps through the whole process. This philosophy has led me to found and sell two startups, start a software consultancy company, and work, as a currently do, in the health care R&D sector helping teams predict their own performance. This book is my attempt to put my money where my mouth is in the realm of technological prediction and provide a rough outline for an analytical method behind the madness.
+I don’t do any of these things by wizardry or with a crystal ball. It’s done carefully and rigorously by applying principles and trends and observing and extrapolating from the past. This philosophy has led me to found and sell two startups, start a software consultancy company, and work, as I currently do, to help teams predict their own performance. This book is my attempt to put my money where my mouth is in the realm of technological prediction and provide a rough outline for an analytical method behind the madness.
 
-A baseball player moves to where the ball is going to be, not to where it is in the moment. Today's entrepreneurs and business leaders need a vision of the future in order to succeed. This can be achieved by relying on one's gut or by leveraging a predictive model built on historically demonstrated quantitative laws. If such a model or explanatory theory does indeed exist, it is of great value. Even if it exists in a grossly undeveloped way, it deserves our attention. This book is the exploration of such a future predicting theory. In it, we will examine how it can be leveraged to give you a personal and corporate competitive advantage. I’ll describe the numerous ways in which it has served me and I’ll also extrapolate some possible outcomes of its manifestation in various domains of knowledge and social trends.
+A baseball player moves to where the ball is going to be, not to where it is in the moment. Today's entrepreneurs and business leaders need a vision of the future in order to succeed. This can be achieved by relying on one's gut or by leveraging a predictive model built on historically demonstrated quantitative laws. If such a model or explanatory theory does indeed exist, it is of great value. Even if it exists in a grossly underdeveloped way, it deserves our close attention. This book is the exploration of such a future predicting theory. In it, we will examine how it can be leveraged to give you a personal and corporate competitive advantage. I’ll describe the numerous ways in which it has served me and I’ll also extrapolate some possible outcomes of its manifestation in various domains of knowledge and social trends.
 
 In 1986, the McKinsey consulting group was asked to forecast the number of cell phones that would be in use in the United States by the year 2000; their model predicted fewer than one million, but the actual figure was more than two orders of magnitude greater at 109 million. How could one predict in 1986 what technology would look like by 2000? Or rather, how would that information have benefited someone if they knew ahead of time? No one truly knows the future but a cunning person intelligently utilizes induction to make decisions.
 
@@ -38,7 +35,13 @@ This highlights the fact that in today’s climate, there must be a clear busine
 
 We live in an API-first climate. A business that prioritizes API has engineered itself to be extendable. In addition, one can reasonably question whether development is being done in a test-driven fashion if there is no API. This can be a red flag to any investor trying to get an indication of code quality in a company.
 
-Notable Successes
+**Notable Successes**
+
+Let's look at two iconic 
+
+Real leaders don't just see the future, they create it. Its a feedback loop. From fiction to fact, inspiring further fiction again. It's becoming increasingly difficult to know what headlines are real and false any more things are moving so fast. 
+
+It's a demonstratable fact that science fiction has profoundly driven technological development. List them.. the tablet, the flip phone, etc Cyberspace
 
 Let’s look at a few iconic figures who saw the future and acted on it..
 
@@ -47,6 +50,8 @@ Let’s look at a few iconic figures who saw the future and acted on it..
 From a 1997 Jeff Bezos Interview..
 
 He was inspired by a statistic he learned while working at a hedge fund: In the '90s, web usage was growing at 2,300% a year.
+
+He could have considered this a bubble. 
 
 Bezos explains why books, in particular, make for a perfect item to sell on the internet.
 
@@ -73,6 +78,10 @@ Jobs predicted that what would make computers more useful — for purposes outsi
 “The most compelling reason for most people to buy a computer for the home will be to link it into a nationwide communications network,” Jobs told Playboy.
 
 When he made that prediction in ’85, he was four years ahead of Tim Berners-Lee’s 1989 work to develop a system called the World Wide Web. “Berners-Lee wrote the first web page editor and web browser in his office at CERN \[the European Organization for Nuclear Research\], and by the end of 1990, the first web page was posted online,” The New York Times explains.
+
+**Conclusion**
+
+What is the future going to be? Beyond isolating ideas, is there a holistic and comprehensive picture of what's coming? Yes, and it is captured in the idea of the technological singularity. 
 
 ---
 
@@ -101,3 +110,5 @@ Distribution technologies like IPFS & Blockchain to democratize business monolit
 Quality and the spread of the algorithmic method: Formal methods for design, testing, business models (growth hacking)
 
 Pure mathematical models of systems gain ground FRP & Graph Theory descriptions
+
+> "We tend to overestimate the effect of a technology in the short run and underestimate the effect in the long run." - Amara's Law
