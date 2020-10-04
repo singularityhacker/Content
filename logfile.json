@@ -50,7 +50,11 @@
     }
   },
   "singularity-hacker-book/hardware-and-software": {
-    "initialWords": 2408
+    "initialWords": 2408,
+    "2020-10-04T13:45:06.289Z": {
+      "diff": -68,
+      "currentWords": 2340
+    }
   },
   "singularity-hacker-book/intelligence-and-cyberspace": {
     "initialWords": 1762
