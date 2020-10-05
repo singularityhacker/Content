@@ -17,7 +17,7 @@
     2.  Functional Programming (provable)
     3.  Generative and Procedural Design (Creative)
     4.  Fourth-generation programming languages (Accessible)
-    5.  Cloud-Native (Free)
+    5.  Cloud-Native (Automatically and Infinitely Scalable)
 
 **Hardware**
 
