@@ -61,7 +61,11 @@
     }
   },
   "singularity-hacker-book/intelligence-and-cyberspace": {
-    "initialWords": 1762
+    "initialWords": 1762,
+    "2020-10-05T14:03:43.487Z": {
+      "diff": 48,
+      "currentWords": 1810
+    }
   },
   "singularity-hacker-book/knowing-the-future": {
     "initialWords": 1769,
