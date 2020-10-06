@@ -10,7 +10,7 @@
     7.  AI Legal Rights
 2.  Cyberspace
 
-In this chapter, we're going to talk about intelligent entities and virtual places. 
+In this chapter, we're going to talk about intelligent agents and virtual places. 
 
 **Soft Takeoff**
 
