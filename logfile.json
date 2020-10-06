@@ -106,7 +106,11 @@
     "initialWords": 1567
   },
   "singularity-hacker-book/security-and-emulation": {
-    "initialWords": 1195
+    "initialWords": 1195,
+    "2020-10-06T13:30:14.677Z": {
+      "diff": 30,
+      "currentWords": 1225
+    }
   },
   "singularity-hacker-book/table-of-contents": {
     "initialWords": 34
