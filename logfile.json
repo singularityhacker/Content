@@ -36,7 +36,11 @@
     "initialWords": 136
   },
   "singularity-hacker-book/digital-nations-and-economy20": {
-    "initialWords": 2275
+    "initialWords": 2275,
+    "2020-10-06T12:39:57.834Z": {
+      "diff": 9,
+      "currentWords": 2284
+    }
   },
   "singularity-hacker-book/digital-power-laws": {
     "initialWords": 1606,
