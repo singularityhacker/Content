@@ -113,7 +113,11 @@
     }
   },
   "singularity-hacker-book/table-of-contents": {
-    "initialWords": 34
+    "initialWords": 34,
+    "2020-10-30T11:23:07.404Z": {
+      "diff": 108,
+      "currentWords": 142
+    }
   },
   "singularity-hacker-book/the-singularity": {
     "initialWords": 2801,
