@@ -9,7 +9,11 @@
     "initialWords": 1643
   },
   "Computronium/Computronium_Story": {
-    "initialWords": 2463
+    "initialWords": 2463,
+    "2020-11-19T16:23:58.844Z": {
+      "diff": 63,
+      "currentWords": 2526
+    }
   },
   "Contracts": {
     "initialWords": 64
