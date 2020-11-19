@@ -4,6 +4,10 @@ Preppers are oriented towards surviving and thriving in a doomsday scenario. But
 
 I need to rework the direction of chapter one and slightly rework chapters two and three. 
 
+Maybe just change the subtitle to "Visions of The Future" or something.
+
+https://leanpub.com/singularityhacker
+
 Book Chapters:
 
 1.  Knowing the future
