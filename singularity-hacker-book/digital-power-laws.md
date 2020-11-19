@@ -10,7 +10,12 @@
 
 A quantitative basis for this predicted technological singularity future..
 
-There are a number of digital trends or power laws, as I like to call them that drive the technological singularity. They are the engine that is propelling this whole thing into the future. A few things to note about these laws. Firstly they are merely observations. There are no deeper physical principles in the universe that would lead us to believe that they must hold true. Its for this reason that some object to them being thought of as laws. Secondly, they are merely based on observation. We’ve seen a trend that has held true for a long time and seems to be holding true for the unimaginable future. While these things may seem like deficiencies to the laws, I would consider them strengths. Strengths because they are not based on any underlying theories but simply based on scientific induction. We’ll start with the most famous and well-known law and work our way through a few other, lesser-known ones.
+There are a number of digital trends or power laws, as I'll call them that drive the technological singularity. They are the pistons propelling the engine of the digital world. A few things to note about these laws. 
+
+1.  Firstly they are merely observations. There are no deeper physical principles in the universe that would lead us to believe that they must hold true. It's for this reason that some object to them being thought of as laws. 
+2.  Secondly, they are merely based on observation. We’ve seen a trend that has held true for a long time and seems to be holding true for the unimaginable future. 
+
+While these things may seem like deficiencies to the laws, I would consider them strengths. Strengths because they are not based on any underlying theories but simply based on scientific induction. We’ll start with the most famous and well-known power law and work our way through a few other, lesser-known ones.
 
 **Moore’s Law**
 
@@ -20,9 +25,9 @@ Chart: [https://hackernoon.com/moores-law-is-alive-and-well-adc010ea7a63](https:
 
 As we reach the physical limits of transistor sizes, entirely new hardware architectures are developed that sustain the progression. Things like 3D chips, specialized chips, and non-silicon based chips like photonics, spintronics, and neuromorphic chips are being developed and will ensure that this law continues.
 
-“Regular boosts to computing performance that used to come from Moore's Law will continue, and will instead stem from changes to how chips are designed.” - Mike Muller, CTO at ARM
+> “Regular boosts to computing performance that used to come from Moore's Law will continue, and will instead stem from changes to how chips are designed.” - Mike Muller, CTO at ARM
 
-What this does not mean is that a user's experience of computer speed will grow. We tend to be more sloppy with application development when its cheap to make up for it with hardware horsepower. There is a standing joke that the same amount of computing resources that were sued to send astronauts to the moon in the 60’s is now accidentally used up a sluggish browser tab.
+What this does not mean is that a user's experience of computer speed will increase. We tend to be more sloppy with application development when it's cheap to make up for it with hardware horsepower. There is a standing joke that the same amount of computing resources that were used to send astronauts to the moon in the 60’s is now accidentally used up a sluggish browser tab.
 
 **Kryder’s Law**
 
@@ -32,7 +37,7 @@ Need a chart: [https://www.quora.com/Has-Kryders-law-continued-in-recent-years](
 
 Let’s look at the current top cloud storage providers. Apple offers two terabytes of cloud storage for about $10 a month. Google offers the same space for the same price as well as 10 terabytes for about $100 a month. After that, users can get 20 terabytes for $200 a month, 30 terabytes for $300 a month, and so on. Dropbox offers yet a similar package but with extras like full-text search for $20 a month. Lastly and most competitive is Amazon offering an incredible $0.004 per gigabyte per month through its Glacier storage service. When you take these cloud providers into account and consider that they will only grow via economies of scale, you see that Kryder’s law is in full effect.
 
-Note that this also doesn't even take into consideration innovations like Filecoin that actually distribute Kryder's Law by allowing anyone with storage capacity to rent that space out. You could look at it like Uber or Airbnb for digital storage. This highlights the idea that this digital power laws, like the others, should not be strictly tied to a hardware implementation. Similar to how Moore's Law continues but not strictly through cramming more transistors on a chip but through new engineering architectures. The same principle applies.
+Note that this also doesn't even take into consideration innovations like Filecoin that actually distribute Kryder's Law by allowing anyone with storage capacity to rent that space out. You could look at it like Uber or Airbnb for digital storage. This highlights the idea that this digital power law, like the others, should not be strictly tied to a hardware implementation. Similar to how Moore's Law continues but not strictly through cramming more transistors on a chip but through new engineering architectures. The same principle applies.
 
 **Nielsen’s Law**
 
@@ -69,3 +74,7 @@ While there may be temporary or geographically isolated stalls in these trends, 
 The overarching result is that software is eating the world and creating a global network effect.
 
 This is causing everything to radically speed up. Segway into accelerated change and time compression...
+
+[Modeling the Human Trajectory](https://www.openphilanthropy.org/blog/modeling-human-trajectory)
+
+Interesting chart: https://www.darrinqualman.com/tag/exponential-growth/
