@@ -178,5 +178,8 @@
   },
   "quotes": {
     "initialWords": 27
+  },
+  "life-management": {
+    "initialWords": 125
   }
 }
