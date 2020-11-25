@@ -177,9 +177,17 @@
     "initialWords": 501
   },
   "quotes": {
-    "initialWords": 27
+    "initialWords": 27,
+    "2020-11-23T23:34:49.508Z": {
+      "diff": 11,
+      "currentWords": 38
+    }
   },
   "life-management": {
-    "initialWords": 125
+    "initialWords": 125,
+    "2020-11-25T16:30:45.780Z": {
+      "diff": 137,
+      "currentWords": 262
+    }
   }
 }
