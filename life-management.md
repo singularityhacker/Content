@@ -18,3 +18,13 @@ Two seminal books that should drive ones thinking:
 
 *   Deep Work
 *   Atomic Habits
+
+**RAM vs Disk Modalities**
+
+There are short term short form tools and workflows that flow onto longer form tools and flows. I good example is the way I use google docs for initial notes and drafts and then migrate into markdown files stored in version control. I've tried to exclusively operate in only one of these modes and it has never been effective. You either end up with an endless stream of notes spread across many different apps and never combining to produce a critical mass or you end up not being able to adequately capture flashes of inspiration on the fly. 
+
+**Morning Checklist**
+
+I need a better morning workflow and dashboard system. 
+
+It's time to move into a more pull vs push-based information flow and to also removed the visual pollution I'm bombarding myself with constantly.
