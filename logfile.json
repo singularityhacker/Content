@@ -184,6 +184,10 @@
     }
   },
   "life-management": {
-    "initialWords": 125
+    "initialWords": 125,
+    "2020-11-25T16:30:45.780Z": {
+      "diff": 137,
+      "currentWords": 262
+    }
   }
 }
