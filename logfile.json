@@ -189,5 +189,47 @@
       "diff": 137,
       "currentWords": 262
     }
+  },
+  "ContentOps/Micro_Content_and_Automated_ Learning": {
+    "initialWords": 41
+  },
+  "ContentOps/trivium_of_technical_communication": {
+    "initialWords": 657
+  },
+  "ContentOps/Writing_on_GitHub_II": {
+    "initialWords": 984
+  },
+  "ContentOps/Writing_on_GitHub": {
+    "initialWords": 501
+  },
+  "Cypherpunk_Revolution/cypherpunk-revolution": {
+    "initialWords": 6299
+  },
+  "Singularity_Hacker/digital-nations-and-economy20": {
+    "initialWords": 2284
+  },
+  "Singularity_Hacker/digital-power-laws": {
+    "initialWords": 1521
+  },
+  "Singularity_Hacker/hardware-and-software": {
+    "initialWords": 2343
+  },
+  "Singularity_Hacker/intelligence-and-cyberspace": {
+    "initialWords": 1810
+  },
+  "Singularity_Hacker/knowing-the-future": {
+    "initialWords": 1833
+  },
+  "Singularity_Hacker/personal-survival": {
+    "initialWords": 1567
+  },
+  "Singularity_Hacker/security-and-emulation": {
+    "initialWords": 1225
+  },
+  "Singularity_Hacker/table-of-contents": {
+    "initialWords": 155
+  },
+  "Singularity_Hacker/the-singularity": {
+    "initialWords": 3056
   }
 }
