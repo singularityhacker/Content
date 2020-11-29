@@ -213,7 +213,11 @@
     "initialWords": 2284
   },
   "Singularity_Hacker/digital-power-laws": {
-    "initialWords": 1521
+    "initialWords": 1521,
+    "2020-11-29T00:31:34.416Z": {
+      "diff": 251,
+      "currentWords": 1772
+    }
   },
   "Singularity_Hacker/hardware-and-software": {
     "initialWords": 2343
