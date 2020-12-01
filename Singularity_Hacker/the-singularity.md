@@ -146,11 +146,7 @@ Let’s take the metric for how long a particular technology took to reach 50 mi
 
 It took automobiles, telephones, and electricity around 50 to 60 years to reach 50 million users. With this foundation of mobility established, there arose the need to have more access to financial and communication resources so credit cards, ATM’s, and television came about and took 20 to 30 years to reach 50 million users. It took less than a dozen years for personal computers and cellphones to reach the same number of users. Now we’ll see a dramatic shift in the numbers as digital science rears its head. Computation is the next logical step. Watch as the hockey stick takes off. It only took 7 years for the Internet to reach 50 million user. Facebook did the same in 3 years. Then WeChat did it in 1. Then Pokemon Go did it in 19 days. Are we not in a state of future shock at these numbers.
 
-Let’s consider the metric of time to 1 billion dollar valuation. Old companies like Harley-Davidson, Prada, and Whirlpool took almost a century to reach the 1 billion dollar valuation. More modern companies like Mattel, Nike, and Starbucks did it in a quarter of the time. Now we shall see the emergence of “Internet companies” like Evernote and PayPal do that in less than ten years. As the net gets more established and the network effect takes hold, full-fledged digital companies like Pinterest, Instagram, and YouTube reach 1 billion dollar valuations in less than 2 years. Bird, a scooter on demand San Francisco company has now reached this goal in less than one year.
-
-Founded and IPO’d before lunch..
-
-The same patterns can be seen in time to IPO and social and cultural changes as well. Individuals interviewed for local news one day are singing in music awards shows shortly, they’re remixed interviews having gone viral. Persons peculiar mugshots are signing modeling contracts and appearing in music videos soon after from the same phenomena.
+The same patterns can be seen in cultural changes as well. Individuals interviewed for local news one day are singing in music awards shows shortly, they’re remixed interviews having gone viral. Persons peculiar mugshots are signing modeling contracts and appearing in music videos soon after from the same phenomena.
 
 It’s almost impossible for the average Joe on the street to imagine the monumental shifts in culture that are going to take place on the next 30 years.
 
@@ -175,26 +171,6 @@ The State Department thinks they can suddenly control file sharing and 3D printi
 1.  North Carolina is specifically targeting Tesla Motors with a bill that would require car manufacturers to exclusively sell through dealerships. This would be like a state freaking out over the emergence of e-commerce so they pass a bill requiring a ‘store’ to have a brick & mortar location.
 
 Many more examples could be given, _ahem_ Uber. The point is this. If you have an interest in maintaining the status quo, get ready for future shock. IBM’s Watson will be a children's toy within fifteen years. Any business plan or legislative action that doesn't take this into account is destined to be ineffective and outmoded.
-
----
-
-In 1987 the world had its first electronic stock exchange, the NASDAQ terminal. Traders could now type orders directly into a computer.
-
-A trader named Thomas Peterffy didn’t want to type in the orders so he and his engineers hacked into the NASDAQ terminal such that it could be wired directly to their own computer, which traded automatically based on algorithms.
-
-A senior NASDAQ official saw Peterffy’s setup and said Peterffy was breaking the rules: All orders had to be entered through the keyboard. He gave Petterfy’s group one week to fix the problem.
-
-Peterffy and his engineers came up with a solution. They built a mechanical robot with rubber fingers that typed entries into the keyboard. It’s reported that the inspector stormed out of the room upon seeing the hulking machine but it technically satisfied the NASDAQ rules. Traders said that on active trading days, the robot typed so fast that it sounded like a machine gun.
-
-Peterffy became the father of digital trading. He would write code in his head during the trading day and then apply his ideas to computerized trading models after hours.
-
-\[image\]
-
-The rise of high-frequency trading in the stock market from January 2007 through January 2012.
-
-p2p exchanges. You can’t regulate singularity.
-
-The cypherpunks and Julian Assange, and our slide in totalitarianism.
 
 ---
 
