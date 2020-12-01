@@ -210,7 +210,11 @@
     "initialWords": 6299
   },
   "Singularity_Hacker/digital-nations-and-economy20": {
-    "initialWords": 2284
+    "initialWords": 2284,
+    "2020-12-01T15:22:26.266Z": {
+      "diff": 413,
+      "currentWords": 2697
+    }
   },
   "Singularity_Hacker/digital-power-laws": {
     "initialWords": 1521,
@@ -238,7 +242,11 @@
     "initialWords": 155
   },
   "Singularity_Hacker/the-singularity": {
-    "initialWords": 3056
+    "initialWords": 3056,
+    "2020-12-01T15:22:26.280Z": {
+      "diff": -344,
+      "currentWords": 2712
+    }
   },
   "ContentOps/Writing_on_GitHub_III": {
     "initialWords": 0
