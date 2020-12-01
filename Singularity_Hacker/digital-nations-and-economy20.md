@@ -8,7 +8,7 @@ Find here: https://github.com/singularityhacker/Content/blob/master/Singularity_
 
 Last article: 7 Power Laws of The Technological Singularity (capitalize the t and use a similar naming convention for this series.)
 
-# Economy 2.0 in The Technological Singularity
+# Economy 2.0 and the Technological Singularity
 
 1.  Defi
 2.  M2M Marketplace
