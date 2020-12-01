@@ -1,13 +1,96 @@
-**Chapter 6. Digital Nation's + Economy 2.0**
+**Chapter 6.** ~**Digital Nation's +**~ **Economy 2.0**
 
-1.  Digital Nations
-    1.  Decentralized Governance
-    2.  Social Networks
-    3.  Digital Megacorps
-    4.  Combat Ops
-2.  Economy 2.0
-    1.  Defi
-    2.  M2M Marketplace
+New plan: Breakout these two subjects into individual blog posts. Start with Economy 2.0.
+
+Add sections on "time to IPO" and the birth of algorithmic trading to this article. Expand "time to IPO" to include the timing of ICO's (500 million in 30 min timescales).
+
+Find here: https://github.com/singularityhacker/Content/blob/master/Singularity_Hacker/the-singularity.md
+
+Last article: 7 Power Laws of The Technological Singularity (capitalize the t and use a similar naming convention for this series.)
+
+# Economy 2.0 in The Technological Singularity
+
+1.  Defi
+2.  M2M Marketplace
+
+Let’s consider the metric of time to 1 billion dollar valuation. Old companies like Harley-Davidson, Prada, and Whirlpool took almost a century to reach the 1 billion dollar valuation. More modern companies like Mattel, Nike, and Starbucks did it in a quarter of the time. Now we shall see the emergence of “Internet companies” like Evernote and PayPal do that in less than ten years. As the net gets more established and the network effect takes hold, full-fledged digital companies like Pinterest, Instagram, and YouTube reach 1 billion dollar valuations in less than 2 years. Bird, a scooter on demand San Francisco company has now reached this goal in less than one year. Founded and IPO’d before lunch..
+
+In 1987 the world had its first electronic stock exchange, the NASDAQ terminal. Traders could now type orders directly into a computer.
+
+A trader named Thomas Peterffy didn’t want to type in the orders so he and his engineers hacked into the NASDAQ terminal such that it could be wired directly to their own computer, which traded automatically based on algorithms.
+
+A senior NASDAQ official saw Peterffy’s setup and said Peterffy was breaking the rules: All orders had to be entered through the keyboard. He gave Petterfy’s group one week to fix the problem.
+
+Peterffy and his engineers came up with a solution. They built a mechanical robot with rubber fingers that typed entries into the keyboard. It’s reported that the inspector stormed out of the room upon seeing the hulking machine but it technically satisfied the NASDAQ rules. Traders said that on active trading days, the robot typed so fast that it sounded like a machine gun.
+
+Peterffy became the father of digital trading. He would write code in his head during the trading day and then apply his ideas to computerized trading models after hours.
+
+\[image\]
+
+The rise of high-frequency trading in the stock market from January 2007 through January 2012.
+
+p2p exchanges. You can’t regulate singularity.
+
+The cypherpunks and Julian Assange, and our slide in totalitarianism.
+
+Consider polymath. The stock market has been consumed by algorithmization. Look at the chart. The majority of all stock trades today are M2M. Security tokens platforms like Polymath make it easy for companies to issue financial securities on the blockchain. They make it possible to do this while complying with compliance and regulation requirements.
+
+Look at it this way. If alg trading was the internet reaching out to trade on our stock market. Security tokens are moving the entire stock market to the internet to be a fully digital native. Soon we’ll see business models and financial instruments created entirely by ML and AI. Mechanisms and schemes that will appear completely incomprehensible to humans at first. This is economy 2.0. This is the new machine economy.
+
+How deep does this rabbit hole go? How many financial instruments are there and how many more could there be and how complex could they get? Is anyone developing these with the help of ML now?
+
+Search: the stock market is shrinking
+
+See: [https://www.bloomberg.com/news/articles/2018-05-30/traders-with-pockets-full-of-cryptocurrencies-quit-wall-street](https://www.bloomberg.com/news/articles/2018-05-30/traders-with-pockets-full-of-cryptocurrencies-quit-wall-street)
+
+See: [https://hackernoon.com/introducing-continuous-organizations-22ad9d1f63b7](https://hackernoon.com/introducing-continuous-organizations-22ad9d1f63b7)
+
+Forget GDP, we’re in an information economy. (The second machine age)
+
+The big ideas are not coming from silicon valley anymore: [https://www.youtube.com/watch?time_continue=2326&v=cU-n_m-snxQ](https://www.youtube.com/watch?time_continue=2326&v=cU-n_m-snxQ)
+
+The idea of passively selling procedural generated digital goods is what drove me to co-found my first software company. A business approached me about building websites for their clients. They wanted to pay me per site but by that time, I had become fairly bored with building websites and was more interested in applications so me and my co-founder built an application that generated websites given user-supplied constraints. Later on, the same idea drove us to replace the company's content writers with procedurally generated content. The idea was that we could re-generate the content across hundreds of sites and re-submit them for indexing and get ranked in search engines.
+
+Unrecognizable business models, financial instruments, and economies.
+
+Self-owned machines.
+
+\*Polymath
+
+The beginning of digital trading story. The machine mechanically typing the keyboard and the next step to securities. Digitally native securities.
+
+Less than 10% of stock trading is done by humans. All the rest is machines. Quantitative investing based on computer formulas and trading by machines directly are leaving the traditional stock picker in the dust and now dominating the equity markets, according to a new report from JPMorgan. Notice the rise of M2M trading in the following insane gif.
+
+Look at it this way. Algorithmic trading are the bots reaching out from cyberspace to trade on our stock market. A new project aims to take that to the next level. Enter Polymath. Polymath aims to make it easy for companies to put all financial securities (stocks, bonds, venture capital, and private equity) on the Blockchain.
+
+They call this new approach a security token offering (STO) and contrast it with the utility tokens or ICO’s all the other companies are promoting. They are doing all this in compliance with SEC regulatory requirements and know-your-customer (KYC) laws.
+
+If that doesn’t cause your jaw to drop, look at it this way. If the machines are reaching out to trade on our stock market, Polymath is moving the stock market and the whole world of financial securities to the machine world via the Blockchain. Full stop. Let that sink in. Programmable securities. Financial instruments reimagined as pure data structures.
+
+I was never a car guy until Tesla. Tesla changed at that. It was described as a computer on wheels with its own API. I could understand that and get behind it. It suddenly interested me very much. Polymath is going to do the same thing for finance. If software is eating the world, it’s about to consume the most profitable game in town. Finance. Put your seatbelts on and keep your eye out for Polymath.
+
+API first design is a corollary to assuming an m2m economy.
+
+\*API First Fruits
+
+[https://singularityhacker.com/post/30525344924/personal-software-agents-in-an-information-economy](https://singularityhacker.com/post/30525344924/personal-software-agents-in-an-information-economy)
+
+The basic principle of an information economy is that the individuals who can perform the most efficient, creative, and useful transformations on data make the most money. That's an oversimplification but it still gets at the heart of the matter. Well, what happens when the tools of information processing become dramatically more powerful? Productivity and value explode. Today, a teenager with a $200 tablet computer can process information with greater efficiency than an entire organization of fifty years ago.
+
+This is nothing compared to the productivity increases society is about to see in the next fifty years. We are on the verge of seeing an explosion in personal software agents.
+
+A software agent is a software program that acts for a user or other program in a relationship of agency. - Wikipedia/Software\_agents
+
+Think little personal AI’s that tirelessly do our bidding. Let's look at the first players in this budding market.
+
+---
+
+# Digital Nations in the Technological Singularity
+
+1.  Decentralized Governance
+2.  Social Networks
+3.  Digital Megacorps
+4.  Combat Ops
 
 **Decentralized Governance**
 
@@ -117,55 +200,3 @@ The gains of one civilization leak out and are conveyed to other connected peopl
 Facebook too big to govern.
 
 Launching its own crypto.
-
-**Economy 2.0**
-
-Consider polymath. The stock market has been consumed by algorithmization. Look at the chart. The majority of all stock trades today are M2M. Security tokens platforms like Polymath make it easy for companies to issue financial securities on the blockchain. They make it possible to do this while complying with compliance and regulation requirements.
-
-Look at it this way. If alg trading was the internet reaching out to trade on our stock market. Security tokens are moving the entire stock market to the internet to be a fully digital native. Soon we’ll see business models and financial instruments created entirely by ML and AI. Mechanisms and schemes that will appear completely incomprehensible to humans at first. This is economy 2.0. This is the new machine economy.
-
-How deep does this rabbit hole go? How many financial instruments are there and how many more could there be and how complex could they get? Is anyone developing these with the help of ML now?
-
-Search: the stock market is shrinking
-
-See: [https://www.bloomberg.com/news/articles/2018-05-30/traders-with-pockets-full-of-cryptocurrencies-quit-wall-street](https://www.bloomberg.com/news/articles/2018-05-30/traders-with-pockets-full-of-cryptocurrencies-quit-wall-street)
-
-See: [https://hackernoon.com/introducing-continuous-organizations-22ad9d1f63b7](https://hackernoon.com/introducing-continuous-organizations-22ad9d1f63b7)
-
-Forget GDP, we’re in an information economy. (The second machine age)
-
-The big ideas are not coming from silicon valley anymore: [https://www.youtube.com/watch?time_continue=2326&v=cU-n_m-snxQ](https://www.youtube.com/watch?time_continue=2326&v=cU-n_m-snxQ)
-
-The idea of passively selling procedural generated digital goods is what drove me to co-found my first software company. A business approached me about building websites for their clients. They wanted to pay me per site but by that time, I had become fairly bored with building websites and was more interested in applications so me and my co-founder built an application that generated websites given user-supplied constraints. Later on, the same idea drove us to replace the company's content writers with procedurally generated content. The idea was that we could re-generate the content across hundreds of sites and re-submit them for indexing and get ranked in search engines.
-
-Unrecognizable business models, financial instruments, and economies.
-
-Self-owned machines.
-
-\*Polymath
-
-The beginning of digital trading story. The machine mechanically typing the keyboard and the next step to securities. Digitally native securities.
-
-Less than 10% of stock trading is done by humans. All the rest is machines. Quantitative investing based on computer formulas and trading by machines directly are leaving the traditional stock picker in the dust and now dominating the equity markets, according to a new report from JPMorgan. Notice the rise of M2M trading in the following insane gif.
-
-Look at it this way. Algorithmic trading are the bots reaching out from cyberspace to trade on our stock market. A new project aims to take that to the next level. Enter Polymath. Polymath aims to make it easy for companies to put all financial securities (stocks, bonds, venture capital, and private equity) on the Blockchain.
-
-They call this new approach a security token offering (STO) and contrast it with the utility tokens or ICO’s all the other companies are promoting. They are doing all this in compliance with SEC regulatory requirements and know-your-customer (KYC) laws.
-
-If that doesn’t cause your jaw to drop, look at it this way. If the machines are reaching out to trade on our stock market, Polymath is moving the stock market and the whole world of financial securities to the machine world via the Blockchain. Full stop. Let that sink in. Programmable securities. Financial instruments reimagined as pure data structures.
-
-I was never a car guy until Tesla. Tesla changed at that. It was described as a computer on wheels with its own API. I could understand that and get behind it. It suddenly interested me very much. Polymath is going to do the same thing for finance. If software is eating the world, it’s about to consume the most profitable game in town. Finance. Put your seatbelts on and keep your eye out for Polymath.
-
-API first design is a corollary to assuming an m2m economy.
-
-\*API First Fruits
-
-[https://singularityhacker.com/post/30525344924/personal-software-agents-in-an-information-economy](https://singularityhacker.com/post/30525344924/personal-software-agents-in-an-information-economy)
-
-The basic principle of an information economy is that the individuals who can perform the most efficient, creative, and useful transformations on data make the most money. That's an oversimplification but it still gets at the heart of the matter. Well, what happens when the tools of information processing become dramatically more powerful? Productivity and value explode. Today, a teenager with a $200 tablet computer can process information with greater efficiency than an entire organization of fifty years ago.
-
-This is nothing compared to the productivity increases society is about to see in the next fifty years. We are on the verge of seeing an explosion in personal software agents.
-
-A software agent is a software program that acts for a user or other program in a relationship of agency. - Wikipedia/Software\_agents
-
-Think little personal AI’s that tirelessly do our bidding. Let's look at the first players in this budding market.
