@@ -12,6 +12,7 @@ Last article: 7 Power Laws of The Technological Singularity (capitalize the t an
 
 1.  Defi
 2.  M2M Marketplace
+3.  See: https://singularityhacker.com/post/107072514020/economy-2-0
 
 What will the global economy look like in 30-50 years? 
 
@@ -19,12 +20,13 @@ You don't have to wait 30 to 50 years to already see the exponential progression
 
 Consider the following metrics:
 
-1.  Time to 1 billion dollar valuation
-2.  The transformation of the stock market
-3.  The digitization of financial instruments
-4.  Growth of global productivity
-5.  API first development in M2M business
-6.  Procedurally generated goods
+1.  Time to 1 billion dollar valuation (Acceleration)
+2.  The transformation of the stock market (Alg)
+3.  The digitization of financial instruments (DeFi)
+4.  Growth of global productivity ()
+5.  API first development and M2M business ()
+6.  Procedurally generated goods (information-based)
+7.  Humanly Incomprehensible Business Models
 
 Let’s consider the metric of time to 1 billion dollar valuation. Old companies like Harley-Davidson, Prada, and Whirlpool took almost a century to reach the 1 billion dollar valuation. More modern companies like Mattel, Nike, and Starbucks did it in a quarter of the time. Now we shall see the emergence of “Internet companies” like Evernote and PayPal do that in less than ten years. As the net gets more established and the network effect takes hold, full-fledged digital companies like Pinterest, Instagram, and YouTube reach 1 billion dollar valuations in less than 2 years. Bird, a scooter on demand San Francisco company has now reached this goal in less than one year. Founded and IPO’d before lunch..
 
