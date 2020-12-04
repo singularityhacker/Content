@@ -195,7 +195,11 @@
     }
   },
   "ContentOps/Micro_Content_and_Automated_ Learning": {
-    "initialWords": 41
+    "initialWords": 41,
+    "2020-12-04T18:54:59.220Z": {
+      "diff": 444,
+      "currentWords": 485
+    }
   },
   "ContentOps/trivium_of_technical_communication": {
     "initialWords": 657
