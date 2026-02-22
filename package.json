@@ -9,7 +9,7 @@
     "url": "git+https://github.com/singularityhacker/Content.git"
   },
   "dependencies": {
-    "glob": "^7.1.6",
+    "glob": "^13.0.6",
     "reading-time": "^1.2.0"
   },
   "author": "",
